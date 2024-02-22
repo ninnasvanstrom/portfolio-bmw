@@ -1,0 +1,13 @@
+body {
+    margin-bottom: 70px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+
+}
+
+div img {
+   width: 80%;
+}
